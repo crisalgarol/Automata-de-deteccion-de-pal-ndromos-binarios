@@ -1,0 +1,8 @@
+s
+0s0
+00s00
+000s000
+0001s1000
+00010s01000
+
+El palindromo generado fue: 00010101000
